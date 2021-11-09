@@ -1,0 +1,12 @@
+body{background-color: darkgrey;}
+header{background-color: darkred;background-size: cover; }
+h1{color: rgb(201, 193, 193); text-align: center; text-shadow: rgb(92, 87, 87);}
+h2{color: rgb(143, 138, 138);text-align: center;}
+
+#lim{background-color: rgb(207, 207, 207);}
+h3,h4,h5,img{color:black ;text-align: center;margin-top: 50px;margin-bottom: 50px;margin-left: 50px;margin-left: 50px;border-color: rgb(133, 10, 10);}
+h6{ color: rgb(0, 0, 0); text-align: center;text-shadow: blanchedalmond;text-size-adjust: 20;}
+img{vertical-align: auto;}
+section{background-color: burlywood;}
+p.solid{border-style: groove; margin: 25px 50px 75px 100px;border-color: rgb(0, 0, 0);}
+p{color: rgb(0, 0, 0); font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}

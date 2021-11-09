@@ -1,0 +1,9 @@
+body{background-color: darkgrey;}
+header{background-color: darkred;background-size: cover; }
+#dd{background-color:darkred ;text-shadow:2px 2px 4px lightcyan;}
+h1{color: rgb(201, 193, 193); text-align: center; text-shadow: rgb(92, 87, 87);}
+h2{color: rgb(143, 138, 138);text-align: center;}
+div{padding: 15px;margin: 30px;border: #aa3d3d dashed 4px;}
+#menu{background-color: rgb(206, 204, 190);}
+section{text-decoration-color: slateblue;text-decoration: overline;padding: 25px;margin: 30px;border: #aa3d3d dashed4px;}
+h3{}

@@ -1,0 +1,9 @@
+body{background-color: darkgrey;}
+header{background-color: darkred;background-size: cover; }
+h1{color: rgb(201, 193, 193); text-align: center; text-shadow: rgb(92, 87, 87);}
+h2{color: rgb(143, 138, 138);text-align: center;}
+#menu{background-color: rgb(206, 204, 190);}
+div{padding: 15px;margin: 30px;border: #aa3d3d dashed 4px;}
+p{color: black;font-family: Georgia, 'Times New Roman', Times, serif;margin: 15px;border: brown 3px solid;}
+h5{color: rgb(37, 13, 77);text-decoration: underline;}
+h4{color: rgb(68, 13, 13); text-align: center; text-shadow: rgb(92, 87, 87);}
